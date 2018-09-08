@@ -13,5 +13,16 @@ or on a terminal on a Mac
 	
 Windows can download the `.exe` file by clicking on the link on the site, like [this one](https://repo.anaconda.com/archive/Anaconda3-5.2.0-Windows-x86_64.exe).
 	
-Make sure you change the location of the python install to be a place where you have some disk space.  At the end of the installation process, and install script may ask if you want to append the startup commands to your `.bashrc` file.  You will want to say "yes" so that the version of python you use is the one that you just installed.
+Make sure you change the location of the python install to be a place where you have some disk space.  At the end of the installation process, and install script may ask if you want to append the startup commands to your `.bashrc` file.  You will want to say "yes" so that the version of python you use is the one that you just installed.  Then open a new terminal window to run your login file again.
+
+Next, download our three Jupyter notebook files that we'll need for this tutorial.  You can get them as a single zip file [here](https://github.com/UofAPhysics/PythonBootcamp/blob/master/Notebooks.zip).  If you are using Linux, you can command-line access this with:
+
+    wget https://github.com/UofAPhysics/PythonBootcamp/blob/master/Notebooks.zip
+    unzip Notebooks.zip
+	jupyter notebook
+	
+Alternatively, if you have the Anaconda navigator, you can open it up and select the Jupyter notebook.
+	
+    
+
 
