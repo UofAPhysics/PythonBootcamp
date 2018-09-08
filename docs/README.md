@@ -15,4 +15,3 @@ Windows can download the `.exe` file by clicking on the link on the site, like [
 	
 Make sure you change the location of the python install to be a place where you have some disk space.  At the end of the installation process, and install script may ask if you want to append the startup commands to your `.bashrc` file.  You will want to say "yes" so that the version of python you use is the one that you just installed.
 
-
